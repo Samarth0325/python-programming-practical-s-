@@ -1,6 +1,6 @@
 name = "Samarth"
 age = 22
-marks = 85.5
+marks = 85
 
 print("Name:", name)
 print("Age:", age)
