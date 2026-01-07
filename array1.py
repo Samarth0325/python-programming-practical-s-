@@ -4,5 +4,5 @@ import array as arr
 numbers = arr.array('i', [5, 10, 15, 20, 25])
 
 # Accessing elements using index
-print("First element:", numbers[0])
+print("First element:", numbers[3])
 print("Last element:", numbers[-1])
