@@ -6,3 +6,5 @@ Today i was perform a python practicals based on the variables,Datatypes,and Som
 Yesterday I perfomed basic progam of list,tuple,dictionary also perform the programs of conditional statements.
 <br>
 Today i perform the the advanced level program based on list,tuple,dictionary and also on conditional statement.
+<br>
+Today I learn about oops concept in a python also I was perform the basic programs of oops concept like class, object, constuctor, inheritance, polymorphism, Encapsulation.
