@@ -3,4 +3,4 @@
 def my_function(name): #Defining a argument inside the parenthesis after defining a function.
     print(name+"Deshmuke")   #return a output as Argument+Deshmukhe
 my_function("Samarth")
-my_function("parth")    #function calling
+my_function("parth")    #function c
